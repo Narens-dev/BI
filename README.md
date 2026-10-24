@@ -4,15 +4,19 @@
 
 MoviBogotá S.A. es un operador privado de transporte masivo urbano en Bogotá, responsable de más de 450 buses y más de 80 rutas. Actualmente, la organización padece una arquitectura accidental debido a la fragmentación de sus datos operativos (silos de datos en archivos planos, telemetría GPS e informes manuales de mantenimiento en Excel). Esto impide que la Gerencia de Operaciones y Planeación del Servicio tome decisiones oportunas para responder a la pregunta crítica del negocio:
 
-> ¿Cómo programar y redistribuir de forma dinámica la flota de buses y las frecuencias de despacho por ruta e intervalos por horas, minimizando los costos de distancia recorrida en v…
+> ¿Cómo programar y redistribuir de forma dinámica la flota de buses y las frecuencias de despacho por ruta e intervalos por horas, minimizando los costos de distancia recorrida en vacío y los tiempos de espera de los usuarios en estaciones de alta demanda?
+
+El documento completo de la Entrega 1 está en [`docs/entregas/BI-Entrega-1-Equipo506232716.pdf`](docs/entregas/BI-Entrega-1-Equipo506232716.pdf).
 
 ## Integrantes
 
 | Integrante | Código |
 |---|---|
-| | |
-| | |
-| | |
+| David Santiago Prieto Beltrán | 506212024 |
+| Naren Santiago Rojas Sánchez | 506232716 |
+| Joseph David Vargas Olaya | 506232072 |
+
+Docente: Leandro Pájaro Fuentes
 
 ## Herramientas
 
